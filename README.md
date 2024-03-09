@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I’m @TrinhVO2327<br>- 👀 I’m interested in machine learning<br>- 🌱 I’m currently learning computer science<br>- 💞️ I’m looking to collaborate on AI projects<br>- 📫 How to reach me ...<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I play tennis<br>
+-👋 Hi, I’m @TrinhVO2327<br>- 👀 I’m interested in machine learning<br>- 🌱 I’m currently learning computer science<br>- 💞️ I’m looking to collaborate on AI projects<br>- 📫 How to reach me : trinh.vo23@my.stjohns.edu <br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I play tennis<br>
 
 
 ## 🌐 Socials:
